@@ -5,7 +5,7 @@ This project is let u quick start to learn basic, useful concept of `Angular 2 B
 
 Want to learn `Angular 2 Beta` faster ? Then u need to see the following section **Good To Know**.
 
-If u want to know some Glossary & Best Practice of `Angular 2 Beta`, please visit [this site ](https://litiang.gitbooks.io/angular-2-0/content/), and **just read the sections *Glossary* & *Best Practice* **
+If u want to know some Glossary & Best Practice of `Angular 2 Beta`, please visit [this site ](https://litiang.gitbooks.io/angular-2-0/content/), and just read the sections *Glossary* & *Best Practice*
 
 Usage
 ===========
