@@ -1,7 +1,7 @@
 Intro
 ==========
 
-This project is let u quick start to learn basic, useful concept of `Angular 2 Beta`. The concept of the code i gave cover the chapter **5 MIN QUICKSTART** & **TUTORIAL** ( 1.The Hero Editor, 2.Master/Detail, 3.Multiple Component, 4.Services ) + **DEVELOPER GUIDE** ( only 5. Forms )
+This project is let u quick start to learn basic, useful concept of `Angular 2 Beta`. The concept of the code i gave cover the chapter **5 MIN QUICKSTART** & **TUTORIAL** ( 1.The Hero Editor, 2.Master/Detail, 3.Multiple Component, 4.Services ) + **DEVELOPER GUIDE** ( only 5. Forms ) of https://angular.io/
 
 Want to learn `Angular 2 Beta` faster ? Then u need to see the following section **Good To Know**.
 
